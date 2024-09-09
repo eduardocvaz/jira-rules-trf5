@@ -15,9 +15,10 @@ Esta automação envia uma notificação para o Google Chat quando uma tarefa é
 * **Webhook:** Certifique-se de que o webhook esteja configurado corretamente no Google Chat para receber as notificações.
 * **Status "Bloqueada/Impedida":** Verifique se o ID do status "Bloqueada/Impedida" no seu Jira corresponde a 10014. Se for diferente, ajuste a configuração do gatilho.
 
-### Arquivos
+### Notificação
 
-* **[Tarefa Bloqueada/Impedida → Notificar via webhook.json](./Tarefa Bloqueada/Impedida → Notificar via webhook.json)**: Arquivo JSON com a regra pronta para importação no Jira Automation.
+![Imagem notificao!](/tarefa-bloqueada-impedida/images/img.png "Imagem da notificação no Google Chat")
+
 
 ### Observações
 

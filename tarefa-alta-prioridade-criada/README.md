@@ -16,9 +16,10 @@ Esta regra de automação envia uma notificação urgente para o Google Chat sem
 * **Webhook:** Certifique-se de que o webhook esteja configurado corretamente no Google Chat para receber as notificações.
 * **Prioridade Mínima:** Ajuste a configuração "Prioridade Mínima" se desejar incluir outras prioridades além de "Alta".
 
-### Arquivos
+### Notificação
 
-* **[Tarefa com Alta Prioridade Criada → Notificar via webhook.json](./Tarefa com Alta Prioridade Criada → Notificar via webhook.json)**: Arquivo JSON com a regra pronta para importação no Jira Automation.
+![Imagem notificao!](/tarefa-alta-prioridade-criada/images/img.png "Imagem da notificação no Google Chat")
+
 
 ### Observações
 

@@ -19,9 +19,9 @@ Esta automação identifica tarefas em andamento que estão há um determinado n
 * **Webhook:** Certifique-se de que o webhook esteja configurado corretamente no Google Chat.
 * **Número de Dias de Atraso:** Ajuste o valor da variável "diasAtraso" conforme necessário.
 
-### Arquivos
+### Notificação
 
-* **[Tarefas (Iniciadas e não Concluidas) com mais de x dias sem atualizações → Notificar via webhook.json](./Tarefas (Iniciadas e não Concluidas) com mais de x dias sem atualizações → Notificar via webhook.json)**: Arquivo JSON com a regra pronta para importação no Jira Automation.
+![Imagem notificao!](/tarefas-sem-atualizacao/images/img.png "Imagem da notificação no Google Chat")
 
 ### Observações
 

@@ -18,9 +18,10 @@ Esta automação envia uma notificação para o Google Chat sempre que uma nova 
 * **Webhook:** Certifique-se de que o webhook esteja configurado corretamente no Google Chat.
 * **Mensagem de Início da Sprint:** Crie uma issue no Jira com a mensagem desejada e especifique seu ID na variável "tarefaMensagem".
 
-### Arquivos
+### Notificação
 
-* **[Sprint Iniciada → Notificar via webhook.json](./Sprint Iniciada → Notificar via webhook.json)**: Arquivo JSON com a regra pronta para importação no Jira Automation.
+![Imagem notificao!](/sprint-iniciada/images/img.png "Imagem da notificação no Google Chat")
+
 
 ### Observações
 

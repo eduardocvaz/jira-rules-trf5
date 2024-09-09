@@ -20,9 +20,10 @@ Esta automação gera um relatório diário sobre o progresso da sprint em andam
 * **Webhook:** Certifique-se de que o webhook esteja configurado corretamente no Google Chat.
 * **Mensagem de Bom Dia:** Crie uma issue no Jira com a chave especificada e adicione a mensagem desejada na descrição.
 
-### Arquivos
+### Notificação
 
-* **[Relatorio de atividades no começo do dia → Notificar via webhook.json](./Relatorio de atividades no começo do dia → Notificar via webhook.json)**: Arquivo JSON com a regra pronta para importação no Jira Automation.
+![Imagem notificao!](/relatorio-inicio-dia/images/img.png "Imagem da notificação no Google Chat")
+
 
 ### Observações
 

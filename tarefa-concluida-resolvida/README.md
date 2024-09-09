@@ -12,9 +12,11 @@ Esta automação envia uma notificação para o Google Chat sempre que uma taref
 
 * **Webhook:** Certifique-se de que o webhook esteja configurado corretamente no Google Chat para receber as notificações.
 
-### Arquivos
 
-* **[Tarefa Concluída/Resolvida → Notificar via webhook.json](./Tarefa Concluída/Resolvida → Notificar via webhook.json)**: Arquivo JSON com a regra pronta para importação no Jira Automation.
+### Notificação
+
+![Imagem notificao!](/tarefa-concluida-resolvida/images/img.png "Imagem da notificação no Google Chat")
+
 
 ### Observações
 

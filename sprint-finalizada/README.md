@@ -21,7 +21,7 @@ Esta automação gera um relatório detalhado sobre o desempenho da sprint ao fi
 
 ### Notificação
 
-![Imagem notificao!](/images/img.png "Imagem da notificação no Google Chat")
+![Imagem notificao!](/sprint-finalizada/images/img.png "Imagem da notificação no Google Chat")
 
 ### Observações
 
