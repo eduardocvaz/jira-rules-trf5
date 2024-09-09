@@ -13,14 +13,14 @@
 
 ## Lista de Regras
 
-+ [Tarefas (Iniciadas e não Concluidas) com mais de x dias sem atualizações]($projectRoot/tarefas-sem-atualizacao/README.md)
-+ [Tarefa com Alta Prioridade Editada]($projectRoot/tarefa-alta-prioridade-editada/README.md)
-+ [Tarefa com Alta Prioridade Criada]($projectRoot/tarefa-alta-prioridade-criada/README.md)
-+ [Tarefa Concluída/Resolvida]($projectRoot/tarefa-concluida-resolvida/README.md)
-+ [Tarefa Bloqueada/Impedida]($projectRoot/tarefa-bloqueada-impedida/README.md)
-+ [Relatorio de atividades no fim do dia]($projectRoot/relatorio-fim-dia/README.md)
-+ [Relatorio de atividades no começo do dia]($projectRoot/relatorio-inicio-dia/README.md)
-+ [Sprint Finalizada]($projectRoot/sprint-finalizada/README.md)
-+ [Sprint Iniciada]($projectRoot/sprint-iniciada/README.md)
++ [Tarefas (Iniciadas e não Concluidas) com mais de x dias sem atualizações](/tarefas-sem-atualizacao/README.md)
++ [Tarefa com Alta Prioridade Editada](/tarefa-alta-prioridade-editada/README.md)
++ [Tarefa com Alta Prioridade Criada](/tarefa-alta-prioridade-criada/README.md)
++ [Tarefa Concluída/Resolvida](/tarefa-concluida-resolvida/README.md)
++ [Tarefa Bloqueada/Impedida](/tarefa-bloqueada-impedida/README.md)
++ [Relatorio de atividades no fim do dia](/relatorio-fim-dia/README.md)
++ [Relatorio de atividades no começo do dia](/relatorio-inicio-dia/README.md)
++ [Sprint Finalizada](/sprint-finalizada/README.md)
++ [Sprint Iniciada](/sprint-iniciada/README.md)
 
 ***Lembre-se***: Adapte as regras de acordo com as necessidades específicas do seu projeto e fluxo de trabalho.
