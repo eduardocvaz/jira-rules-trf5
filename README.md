@@ -13,11 +13,11 @@
 
 ## Lista de Regras
 
-+ [Tarefas (Iniciadas e não Concluidas) com mais de x dias sem atualizações](/tarefas-sem-atualizacao/README.md)
 + [Tarefa com Alta Prioridade Editada](/tarefa-alta-prioridade-editada/README.md)
 + [Tarefa com Alta Prioridade Criada](/tarefa-alta-prioridade-criada/README.md)
 + [Tarefa Concluída/Resolvida](/tarefa-concluida-resolvida/README.md)
 + [Tarefa Bloqueada/Impedida](/tarefa-bloqueada-impedida/README.md)
++ [Tarefas (Iniciadas e não Concluidas) com mais de x dias sem atualizações](/tarefas-sem-atualizacao/README.md)
 + [Relatorio de atividades no fim do dia](/relatorio-fim-dia/README.md)
 + [Relatorio de atividades no começo do dia](/relatorio-inicio-dia/README.md)
 + [Sprint Finalizada](/sprint-finalizada/README.md)
